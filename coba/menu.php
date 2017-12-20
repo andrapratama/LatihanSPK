@@ -1,0 +1,1 @@
+<a href="index.php">Home</a> | <a href="kriteria.php">Data Kriteria</a> | <a href="alternatif.php">Data Alternatif</a> | <a href="kriteria.php">Data Kriteria</a> | <a href="alternatif.php">Data Alternatif</a> 
